@@ -39,9 +39,7 @@ public class C1 {
         return name + "," + age;
     }
 
-    public static void main(String[] args) {
-        
-    }
+   
 
 
 }
